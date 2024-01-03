@@ -21,7 +21,7 @@ const App = () => (
       <SpecialOffer/>
     </section>
     <section className = "bg-pale-blue padding">
-      CustomerReviews
+      <CustomerReviews/>
     </section>
     <section className = "padding-x sm:py-32 w-full">
       Subscribe
