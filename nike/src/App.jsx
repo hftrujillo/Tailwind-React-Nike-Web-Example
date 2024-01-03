@@ -15,7 +15,7 @@ const App = () => (
       <SuperQuality />
     </section>
     <section className = "padding-x padding-y-10">
-      Services
+      <Services />
     </section>
     <section className = "padding">
       SpecialOffer
