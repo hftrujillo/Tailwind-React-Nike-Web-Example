@@ -9,10 +9,10 @@ const App = () => (
       <Hero />
     </section>
     <section className = "padding">
-      <PopularProducts/>
+      <PopularProducts />
     </section>
     <section className = "padding">
-      SuperQuality
+      <SuperQuality />
     </section>
     <section className = "padding-x padding-y-10">
       Services
